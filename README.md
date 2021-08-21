@@ -16,11 +16,11 @@
 
 ## Requirement
 
-![This is a alt text.](/image/parameter.png "This is a sample image.")
+![This is a alt text.](/parameter.png "This is a sample image.")
 
 ## Output
 
-![This is a alt text.](/image/output.png "This is a sample image.")
+![This is a alt text.](/output.png "This is a sample image.")
 
 ## How to see preview
 
